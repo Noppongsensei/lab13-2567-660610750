@@ -33,11 +33,11 @@ export default function RootLayout({
           <Header />
           <Navbar />
           {children}
-          <Footer
-            year="2023"
-            fullName="Chayanin Suatap"
-            studentId="650610560"
-          />
+      <Footer 
+        year="2024"
+        fullName="Noppong Anakhaphruek"
+        studentId="660610750"
+      />
         </div>
       </body>
     </html>
